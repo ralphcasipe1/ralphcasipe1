@@ -3,7 +3,7 @@
 ### About me
 My name is Ralph Kevin, but I'm used people calling as Kevin. I live in PH 🇵🇭 and I work as a Backend Developer at [High Output Ventures](https://www.hov.co/).
 
-I have a huge towards enterprise software architectures and software testing.
+I have a huge passion towards enterprise software architectures and software testing.
 
 ### 🌱 Goals 2021
 - Write contents about my journy as a problem solver in software industries.
