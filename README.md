@@ -18,7 +18,7 @@ I have a huge passion towards enterprise software architectures and software tes
 ____
 
 
-![Buy me a coffee](./assets/bmac-white.png)
+![Buy me a coffee](./assets/bmac-black.png)
 
 <!--
 **ralphcasipe1/ralphcasipe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
