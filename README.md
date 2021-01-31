@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### About me
-My name is Ralph Kevin, but I'm used to people calling as Kevin. I live in PH 🇵🇭 and I work as a Backend Developer at [High Output Ventures](https://www.hov.co/).
+My name is Ralph Kevin, but I'm used to people calling me as Kevin. I live in PH 🇵🇭 and I work as a Backend Developer at [High Output Ventures](https://www.hov.co/).
 
 I have a huge passion towards enterprise software architectures and software testing.
 
