@@ -5,8 +5,8 @@ My name is Ralph Kevin, but I'm used to people calling me as Kevin. I live in PH
 
 I have a huge passion towards enterprise software architectures and software testing.
 
-### 🌱 Goals 2021
-- Write contents about my journy as a problem solver in software industries.
+### 🌱 Goals in 2021
+- Write contents about my journey as a problem solver in software industries.
 - Start my own podcast.
 - Write a blog in my personal website.
 - Capitalizing remote work by traveling while working.
