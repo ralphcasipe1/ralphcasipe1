@@ -44,20 +44,19 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
   ![](https://img.shields.io/badge/-Koa-2C3E50?style=for-the-badge&logo=koa)
   
 ### Other Skills
-  ![](https://img.shields.io/badge/code-Ruby-CCD1D8?style=flat-square&logo=ruby)
-  ![](https://img.shields.io/badge/code-Elixir-CCD1D8?style=flat-square&logo=elixir)
-  ![](https://img.shields.io/badge/code-Go-CCD1D8?style=flat-square&logo=go)
-  ![](https://img.shields.io/badge/database-RethinkDB-CCD1D8?style=flat-square&logo=rethinkdb)
-  ![](https://img.shields.io/badge/mq-RabbitMQ-CCD1D8?style=flat-square&logo=rabbitmq)
-  ![](https://img.shields.io/badge/mq-ActiveMQ-CCD1D8?style=flat-square&logo=activemq)
-  ![](https://img.shields.io/badge/tool-Grafana-CCD1D8?style=flat-square&logo=grafana)
-  ![](https://img.shields.io/badge/tool-Prometheus-CCD1D8?style=flat-square&logo=prometheus) 
-  ![](https://img.shields.io/badge/tool-Kubernetes-CCD1D8?style=flat-square&logo=kubernetes)
-  ![](https://img.shields.io/badge/test-Mocha-CCD1D8?style=flat-square&logo=mocha)
-  ![](https://img.shields.io/badge/tool-Postman-CCD1D8?style=flat-square&logo=postman)
-  ![](https://img.shields.io/badge/code-Gherkin-CCD1D8?style=flat-square&logo=gherkin)
-  ![](https://img.shields.io/badge/framework-NestJS-CCD1D8?style=flat-square&logo=nestjs)
-  ![](https://img.shields.io/badge/framework-Phoenix-CCD1D8?style=flat-square&logo=phoenix)
+  ![](https://img.shields.io/badge/-Ruby-CCD1D8?style=flat-square&logo=ruby)
+  ![](https://img.shields.io/badge/-Elixir-CCD1D8?style=flat-square&logo=elixir)
+  ![](https://img.shields.io/badge/-Go-CCD1D8?style=flat-square&logo=go)
+  ![](https://img.shields.io/badge/-RethinkDB-CCD1D8?style=flat-square&logo=rethinkdb)
+  ![](https://img.shields.io/badge/-RabbitMQ-CCD1D8?style=flat-square&logo=rabbitmq)
+  ![](https://img.shields.io/badge/-ActiveMQ-CCD1D8?style=flat-square&logo=activemq)
+  ![](https://img.shields.io/badge/-Grafana-CCD1D8?style=flat-square&logo=grafana)
+  ![](https://img.shields.io/badge/-Prometheus-CCD1D8?style=flat-square&logo=prometheus) 
+  ![](https://img.shields.io/badge/-Kubernetes-CCD1D8?style=flat-square&logo=kubernetes)
+  ![](https://img.shields.io/badge/-Mocha-CCD1D8?style=flat-square&logo=mocha)
+  ![](https://img.shields.io/badge/-Postman-CCD1D8?style=flat-square&logo=postman)
+  ![](https://img.shields.io/badge/-Gherkin-CCD1D8?style=flat-square&logo=gherkin)
+  ![](https://img.shields.io/badge/-NestJS-CCD1D8?style=flat-square&logo=nestjs)
 
 <!--
 **ralphcasipe1/ralphcasipe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
