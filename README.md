@@ -55,7 +55,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
   ![](https://img.shields.io/badge/-Kubernetes-CCD1D8?style=flat-square&logo=kubernetes)
   ![](https://img.shields.io/badge/-Mocha-CCD1D8?style=flat-square&logo=mocha)
   ![](https://img.shields.io/badge/-Postman-CCD1D8?style=flat-square&logo=postman)
-  ![](https://img.shields.io/badge/-Gherkin-CCD1D8?style=flat-square&logo=gherkin)
+  ![](https://img.shields.io/badge/-Gherkin-CCD1D8?style=flat-square&logo=cucumber)
   ![](https://img.shields.io/badge/-NestJS-CCD1D8?style=flat-square&logo=nestjs)
 
 <!--
