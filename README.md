@@ -1,22 +1,66 @@
-### Hi there 👋
+<h2>
+  Hi there 👋 <br/>
+  I am Ralph Kevin <br/>
+  <i>// codesmith, software craftsman, agilist</i>
+</h1>
 
-### About me
-My name is Ralph Kevin, but I'm used to people calling me as Kevin. I live in PH 🇵🇭 and I work as a Backend Developer at [High Output Ventures](https://www.hov.co/).
+I build web applications, write blogs, advice, design graphics, and craft blockchain tech.
+I have 7 years of crafting stuffs digitally.
 
-I have a huge passion towards enterprise software architectures and software testing.
+[Contact me right now!]()
 
-### 🌱 Goals in 2021
-- Write contents about my journey as a problem solver in software industries.
-- Start my own podcast.
-- Write a blog in my personal website.
-- Capitalizing remote work by traveling while working.
+I have a huge passion towards software architectures, software testing, organizational agile, security and creative coding.
 
-### 🔭 Projects
-- Personal Website (WIP)
-- `just-do-the-test` (WIP)
+### Programming Languages
 
-____
+<sub>
+  JavaScript 
+  • TypeScript 
+  • Ruby 
+  • Golang 
+  • PHP 
+  • Python 
+  • Elixir 
+  • Rust
+</sub>
 
+### Tools
+<sub>
+  Git 
+  • Unix 
+  • VSCode 
+  • Vim 
+  • MongoDB 
+  • RethinkDB 
+  • BadgerDB 
+  • Redis 
+  • PostgreSQL 
+  • RabbitMQ 
+  • ActiveMQ 
+  • Lerna 
+  • Bazel 
+  • CircleCI 
+  • Github Actions 
+  • Grafana 
+  • Prometheus 
+  • Vector 
+  • GraphQL 
+  • AWS 
+  • Docker 
+  • Kubernetes 
+  • Webpack 
+  • Mocha 
+  • Postman 
+  • Gherkin 
+  • NodeJS 
+  • Express 
+  • Koa 
+  • NestJS 
+  • Phoenix
+  • Tokio 
+  • Sled
+</sub>
+ 
 
 <!--
 **ralphcasipe1/ralphcasipe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
