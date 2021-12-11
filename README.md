@@ -52,15 +52,12 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
   ![](https://img.shields.io/badge/mq-ActiveMQ-blue?style=flat-square&logo=activemq)
   ![](https://img.shields.io/badge/tool-Grafana-blue?style=flat-square&logo=grafana)
   ![](https://img.shields.io/badge/tool-Prometheus-blue?style=flat-square&logo=prometheus) 
-  ![](https://img.shields.io/badge/tool-AWS-blue?style=flat-square&logo=aws)
   ![](https://img.shields.io/badge/tool-Kubernetes-blue?style=flat-square&logo=kubernetes)
   ![](https://img.shields.io/badge/test-Mocha-blue?style=flat-square&logo=mocha)
   ![](https://img.shields.io/badge/tool-Postman-blue?style=flat-square&logo=postman)
   ![](https://img.shields.io/badge/code-Gherkin-blue?style=flat-square&logo=gherkin)
   ![](https://img.shields.io/badge/framework-NestJS-blue?style=flat-square&logo=nestjs)
   ![](https://img.shields.io/badge/framework-Phoenix-blue?style=flat-square&logo=phoenix)
-  ![](https://img.shields.io/badge/tool-Tokio-blue?style=flat-square)
-  ![](https://img.shields.io/badge/database-Sled-blue?style=flat-square)
 
 <!--
 **ralphcasipe1/ralphcasipe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
