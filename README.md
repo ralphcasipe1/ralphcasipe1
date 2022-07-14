@@ -8,7 +8,7 @@ I build web applications, write blogs, advice, design graphics, and craft softwa
 
 I have 7 years of crafting stuffs digitally.
 
-I have a huge passion towards software architectures, software testing, agile organizational, security and creative coding.
+I have a huge passion towards software architectures, software testing, agile organizational, and creative coding.
 
 
 <!-- Actual text -->
