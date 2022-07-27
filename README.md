@@ -1,7 +1,7 @@
 <h2>
   Hi there 👋 <br/>
   I am Ralph Kevin <br/>
-  <i>// codesmith, software craftsman, agilist</i>
+  <i>// codesmith, digital craftsman, agilist</i>
 </h1>
 
 I build web applications, write blogs, advice, design graphics, and craft software/blockchain tech.
