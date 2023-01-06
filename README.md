@@ -4,7 +4,8 @@
   <i>// codesmith, digital craftsman, agilist</i>
 </h1>
 
-I build web applications, write blogs, advice, design graphics, and craft software/blockchain tech.
+### About me
+My name is Ralph Kevin, but I'm used to people calling me as Kevin. I live in PH 🇵🇭 and I am FullStack Developer with an emphasis in Back end development
 
 I have 7 years of crafting stuffs digitally.
 
