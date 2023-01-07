@@ -5,7 +5,7 @@
 </h1>
 
 ### About me
-My name is Ralph Kevin, but I'm used to people calling me as Kevin. I live in PH 🇵🇭 and I am FullStack Developer with an emphasis in Back end development
+My name is Ralph Kevin, but I'm used to people calling me as Kevin. I live in PH 🇵🇭 and I am FullStack Developer with an emphasis in Back end development.
 
 I have 7 years of crafting stuffs digitally.
 
@@ -59,18 +59,3 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
   ![](https://img.shields.io/badge/-Postman-CCD1D8?style=flat-square&logo=postman)
   ![](https://img.shields.io/badge/-Gherkin-CCD1D8?style=flat-square&logo=cucumber)
   ![](https://img.shields.io/badge/-NestJS-CCD1D8?style=flat-square&logo=nestjs)
-
-<!--
-**ralphcasipe1/ralphcasipe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
