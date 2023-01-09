@@ -11,6 +11,8 @@ I have 7 years of crafting stuffs digitally.
 
 I have a huge passion towards software architectures, software testing, agile organizational, and creative coding.
 
+### Skills
+Python | JavaScript/TypeScript
 
 <!-- Actual text -->
 
