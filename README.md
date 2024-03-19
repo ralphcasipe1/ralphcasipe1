@@ -5,11 +5,11 @@
 </h1>
 
 ### About me
-My name is Ralph Kevin, but I'm used to people calling me as Kevin. I live in PH 🇵🇭 and I am FullStack Developer with an emphasis in Back end development.
+My name is Ralph Kevin, but I'm used to people calling me Kevin. I live in PH 🇵🇭 and I am a FullStack Developer with an emphasis in Back end development.
 
-I have 7 years of crafting stuffs digitally.
+I have 9 years of crafting stuff digitally.
 
-I have a huge passion towards software architectures, software testing, agile organizational, and creative coding.
+I have a huge passion for software architectures, software testing, agile organization, and creative coding.
 
 ### Skills
 Python | JavaScript/TypeScript
